@@ -26,6 +26,7 @@ public class Ejercisio {
         if (n1 % 2 != 0 && n2 % 2 != 0) {
             System.out.println(" el primer es impar " + n1 + "el segundo numero es impar " + n2);
         }
+        System.out.println(" prueba 1");
 
     }
 
